@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Application"
+		},
+		{
+			"path": "../../codes"
+		},
+		{
+			"path": "../../py"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
