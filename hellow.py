@@ -1,4 +1,0 @@
-#first lesson
-
-print('hello')
-
